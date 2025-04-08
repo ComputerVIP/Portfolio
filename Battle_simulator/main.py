@@ -182,8 +182,10 @@ def main(repeat):
 
         def end_program():
             nonlocal repeat  # Use the nonlocal keyword to modify the outer variable
-            repeat = 0  # Set repeat to 0 to end the program
             root.destroy()  # Close the current window
+            video_script_path = os.path.abspath("main_menu.py")
+            os.system(f'python "{video_script_path}"')
+            repeat = 0  # Set repeat to 0 to end the program
 
         # Create a main frame inside the window with padding
         mainframe = ttk.Frame(root, padding='3 3 12 12')

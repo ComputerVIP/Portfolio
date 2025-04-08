@@ -50,7 +50,7 @@ def main():
         desc_frame.grid(column=0, row=0, sticky=(tk.N, tk.W, tk.E, tk.S))
 
         # Read the content of 'video_desc.txt'
-        with open('battle_desc.txt', 'r') as file:
+        with open('Battle_simulator/battle_desc.txt', 'r') as file:
             text = file.read()  # Read the file content as a string
 
         # Create a label to display the text
@@ -104,7 +104,7 @@ def main():
         desc_frame.grid(column=0, row=0, sticky=(tk.N, tk.W, tk.E, tk.S))
 
         # Read the content of 'video_desc.txt'
-        with open('video_desc.txt', 'r') as file:
+        with open('Video_mp4/video_desc.txt', 'r') as file:
             text = file.read()  # Read the file content as a string
 
         # Create a label to display the text
