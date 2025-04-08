@@ -35,11 +35,11 @@ def download_all(url):
     '''
   except requests.exceptions.RequestException as e:
     print(f"Error fetching webpage: {e}")
-    
+input()
 if __name__ == "__main__":
   a = input("1 for download webpage text and links, 2 for exit\n")
   try:
-    int(a)
+    a = int(a)
     if a == 1:
       url = input("Enter the URL of the webpage: ")
       download_all(url)

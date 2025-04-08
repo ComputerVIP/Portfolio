@@ -5,6 +5,16 @@
 
 This is a personal portfolio that is showing what I am most proud of in my line of work! I have done many things, but this is meant to celebrate my few greatest achievements.
 
+## Neccessary libraries
+---
+`pip install sympy`
+`pip install matplotlib`
+`pip install pandas`
+`pip install faker`
+`pip install yt-dlp`
+`pip install beautifulsoup4`
+`pip install requests`
+
 ## Current Features
 ---
 

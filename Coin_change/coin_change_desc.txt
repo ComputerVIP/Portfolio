@@ -1,0 +1,1 @@
+This was a project in my CS class, I was supposed to make a program that converts types of currencies to other types of currencies. This was supposed to be a very simple project, but I added my usual extra-difficult flair to it. I learned a lot about Tkinter this way, allowing me to do bigger and better projects with Tkinter.

@@ -112,6 +112,9 @@ def main(repeat):
         else:
             print("❌ No videos found.")
     elif choice == "3":
+        import os
+        video_script_path = os.path.abspath("main_menu.py")
+        os.system(f'python "{video_script_path}"')
         repeat = 0
         return repeat
     else:

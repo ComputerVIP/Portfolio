@@ -1,0 +1,1 @@
+This is a step up from my x and y solver stuff, This was a fun project I did because I, frankly, did not want to do my math homework. I made this, and it works really well.
