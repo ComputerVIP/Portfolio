@@ -7,13 +7,13 @@ This is a personal portfolio that is showing what I am most proud of in my line 
 
 ## Neccessary libraries
 ---
-`pip install sympy`
-`pip install matplotlib`
-`pip install pandas`
-`pip install faker`
-`pip install yt-dlp`
-`pip install beautifulsoup4`
-`pip install requests`
++  `pip install sympy`
++  `pip install matplotlib`
++  `pip install pandas`
++  `pip install faker`
++  `pip install yt-dlp`
++  `pip install beautifulsoup4`
++  `pip install requests`
 
 ## Current Features
 ---
