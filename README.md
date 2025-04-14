@@ -15,6 +15,8 @@ This is a personal portfolio that is showing what I am most proud of in my line 
 +  `pip install beautifulsoup4`
 +  `pip install requests`
 
++ You will also need FFmpeg for this, it MUST be added to path
+
 ## Current Features
 ---
 
